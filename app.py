@@ -115,3 +115,5 @@ Suggestions:
 
     else:
         st.warning("Please upload resume and paste job description.")
+st.markdown("___")
+st.markdown("Developed by: Manyam Prakash</b><br>B.tech - ECE</Rise Krishna Sai Prakasam Group Of institutions",unsafe_allow_html=True)
